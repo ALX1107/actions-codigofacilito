@@ -1,4 +1,4 @@
-name:"Deploy codigofacilito"
+name:"Deploy Codigofacilito"
 
 on:
   push:
