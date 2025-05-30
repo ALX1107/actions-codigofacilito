@@ -5,8 +5,8 @@ on:
     branches["main"]
 jobs:
   deploy-codigofacilito:
-     runs-on: ubuntu-latest
-    - steps:
+    runs-on: ubuntu-latest
+    steps:
      - run: echo "Hacemos puññ del codigo"
      - run: echo "Correr migraciones"
      - run: echo "Generar binario"
